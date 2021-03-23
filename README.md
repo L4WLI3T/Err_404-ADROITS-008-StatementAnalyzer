@@ -1,4 +1,4 @@
-# Err_404-ADROITS-008-StatementScanner
+# Err_404-ADROITS-008-Statement_Analyser
  Solution for Problem statement - 008 of Err_404 hackathon edition 4.0 
  
  # Layout of solution
