@@ -8,6 +8,9 @@
  **HDFC/YesBank_Statement_Analysis.ipynb**
  Python code for analysing the parsed bank statement and categorizing the different transactions made by the account holder into categories like food, travel, lifestyle, etc. 
  
+ **Extended_analysis_YesBank.ipynb**
+ Python code for analysing the parsed bank statement and categorizing the different transactions made by the account holder into categories like food, travel, lifestyle, etc.(On dummy Yes bank statement)
+ 
  **FrontEnd**
  A simple website layout for account holders to upload their bank statemens for analysis.
  
